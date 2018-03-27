@@ -1,0 +1,44 @@
+{
+    "author": "系统组",
+    "description": "这是对BI系统所作的操作文档",
+    "extension": null,
+    "generator": "site",
+    "isbn": "",
+    "links": {
+        "sharing": {
+            "all": null,
+            "facebook": null,
+            "google": null,
+            "twitter": null,
+            "weibo": null
+        },
+        "sidebar": {
+            "<img src='\/images\/BI.png'>": "http://bi.rayjoy.com:65534"
+        }
+    },
+    "output": null,
+    "pdf": {
+        "fontSize": 12,
+        "footerTemplate": null,
+        "headerTemplate": null,
+        "margin": {
+            "bottom": 36,
+            "left": 62,
+            "right": 62,
+            "top": 36
+        },
+        "pageNumbers": false,
+        "paperSize": "a4"
+    },
+    "plugins": [
+                "toggle-chapters",
+                "fontsettings",
+                "sharing",
+                "lunr",
+                "search",
+                "highlight",
+                "livereload"
+    ],
+    "title": "BI 游戏统计分析系统",
+    "variables": {}
+}
